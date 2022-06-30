@@ -10,7 +10,7 @@
 		3C10FB11286C6A1D004C4475 /* ActorSingletonPlugin in Frameworks */ = {isa = PBXBuildFile; productRef = 3C10FB10286C6A1D004C4475 /* ActorSingletonPlugin */; };
 		3C10FB13286C6A1D004C4475 /* DistributedActors in Frameworks */ = {isa = PBXBuildFile; productRef = 3C10FB12286C6A1D004C4475 /* DistributedActors */; };
 		3C10FB15286C6A1D004C4475 /* ExecApp in Frameworks */ = {isa = PBXBuildFile; productRef = 3C10FB14286C6A1D004C4475 /* ExecApp */; };
-		3C10FB19286D9B44004C4475 /* TicTacFishShared in Frameworks */ = {isa = PBXBuildFile; productRef = 3C10FB18286D9B44004C4475 /* TicTacFishShared */; };
+		3C8E7D0C286DC3A3000E09BF /* TicTacFishShared in Frameworks */ = {isa = PBXBuildFile; productRef = 3C8E7D0B286DC3A3000E09BF /* TicTacFishShared */; };
 		B90B3888280FB0B8002D9B47 /* Globals.swift in Sources */ = {isa = PBXBuildFile; fileRef = B90B3886280FB0B8002D9B47 /* Globals.swift */; };
 		B90B388D280FB1CC002D9B47 /* TableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B90B388A280FB1CC002D9B47 /* TableView.swift */; };
 		B9A68FD9280F92F200AEA625 /* TableStaffApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9A68FD8280F92F200AEA625 /* TableStaffApp.swift */; };
@@ -40,7 +40,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3C10FB13286C6A1D004C4475 /* DistributedActors in Frameworks */,
-				3C10FB19286D9B44004C4475 /* TicTacFishShared in Frameworks */,
+				3C8E7D0C286DC3A3000E09BF /* TicTacFishShared in Frameworks */,
 				3C10FB15286C6A1D004C4475 /* ExecApp in Frameworks */,
 				3C10FB11286C6A1D004C4475 /* ActorSingletonPlugin in Frameworks */,
 			);
@@ -155,7 +155,7 @@
 				3C10FB10286C6A1D004C4475 /* ActorSingletonPlugin */,
 				3C10FB12286C6A1D004C4475 /* DistributedActors */,
 				3C10FB14286C6A1D004C4475 /* ExecApp */,
-				3C10FB18286D9B44004C4475 /* TicTacFishShared */,
+				3C8E7D0B286DC3A3000E09BF /* TicTacFishShared */,
 			);
 			productName = TicTacFish;
 			productReference = B9A68FD5280F92F200AEA625 /* TicTacFish.app */;
@@ -500,7 +500,7 @@
 			package = 3C10FB0F286C6A1D004C4475 /* XCRemoteSwiftPackageReference "swift-distributed-actors" */;
 			productName = DistributedActors;
 		};
-		3C10FB18286D9B44004C4475 /* TicTacFishShared */ = {
+		3C8E7D0B286DC3A3000E09BF /* TicTacFishShared */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = TicTacFishShared;
 		};
