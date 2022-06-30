@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CF366621-E92F-4DE4-B53E-A4B40BEDC6C2"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCC27285-43F2-4F57-AC0C-685E36614082"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shared/Sources/TicTacFishShared/ViewModel/TableViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "addItem(item:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DCC27285-43F2-4F57-AC0C-685E36614082 - 258351f68329e66d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for TicTacFishShared.TableViewModel.addItem(item: TicTacFishShared.FoodItem) async -&gt; ()"
+                  moduleName = "TicTacFish"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yoshimartodihardjo/Downloads/TicTacFishImplementingAGameUsingDistributedActors/Step%203%20Distributed%20Local%20Network%20Player/Shared/Sources/TicTacFishShared/ViewModel/TableViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "DCC27285-43F2-4F57-AC0C-685E36614082 - 2195640973064d3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async throws -&gt; () in TicTacFishShared.TableViewModel.addItem(item: TicTacFishShared.FoodItem) async -&gt; ()"
+                  moduleName = "TicTacFish"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yoshimartodihardjo/Downloads/TicTacFishImplementingAGameUsingDistributedActors/Step%203%20Distributed%20Local%20Network%20Player/Shared/Sources/TicTacFishShared/ViewModel/TableViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19F24A4E-DFE5-46FC-9CB1-AFB8A3AB075F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shared/Sources/TicTacFishShared/ViewModel/TableViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "removeColleagues(myself:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
